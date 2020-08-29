@@ -1,0 +1,174 @@
+*{
+font-family: 'Anton', sans-serif;
+}
+#intro {
+    background: url("../images/logo.png") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+#logo {
+    margin-top: 35vh;
+}
+#welcome {
+    padding: 10vh;
+}
+.card {
+    text-align: center;
+}
+#services {
+    background: url("../images/backgrounds/s_image.jpg") no-repeat center center;
+    height: 450px;
+    background-position: center center;
+    color: white;
+    padding-top: 60px;
+    background-size: auto;
+
+}
+#about {
+    padding-top: 50px;
+}
+#whatWeDo {
+    text-align: center;
+    padding-top: 20px;
+}
+h2 {
+    text-align: center;
+}
+#bailey-image {
+    border-style: solid;
+    border-color: white;
+    padding-bottom: 60px;
+    margin: 15px;
+    vertical-align: text-top;
+    font-weight: bold;
+    text-align: left;
+    font-size: 24px;
+    padding-left: 10px;
+}
+#bailey-text {
+    display: none;
+}
+#bailey-image,
+#jim-image {
+    border-style: solid;
+    border-color: white;
+    padding-bottom: 60px;
+    margin: 15px;
+    vertical-align: text-top;
+    font-weight: bold;
+    text-align: left;
+    font-size: 24px;
+    padding-left: 10px;
+}
+#jim-text {
+    display: none;
+}
+#burned-image {
+    border-style: solid;
+    border-color: white;
+    padding-bottom: 60px;
+    margin: 15px;
+    vertical-align: text-top;
+    font-weight: bold;
+    text-align: left;
+    font-size: 24px;
+    padding-left: 10px;
+}
+#burned-text {
+    display: none;
+}
+#age-image {
+    border-style: solid;
+    border-color: white;
+    padding-bottom: 60px;
+    margin: 15px;
+    vertical-align: text-top;
+    font-weight: bold;
+    text-align: left;
+    font-size: 22px;
+    padding-left: 10px;
+}
+#age-text {
+    display: none;
+}
+#elexa-image {
+    border-style: solid;
+    border-color: white;
+    padding-bottom: 80px;
+    margin: 15px;
+    vertical-align: text-top;
+    font-weight: bold;
+    text-align: left;
+    font-size: 22px;
+    padding-left: 10px;
+}
+#elexa-text {
+    display: none;
+}
+#crystals-image {
+    border-style: solid;
+    border-color: white;
+    padding-bottom: 80px;
+    margin: 15px;
+    vertical-align: text-top;
+    font-weight: bold;
+    text-align: left;
+    font-size: 22px;
+    padding-left: 10px;
+}
+#crystals-text {
+    display: none;
+}
+#ontario-image {
+    border-style: solid;
+    border-color: white;
+    padding-bottom: 80px;
+    margin: 15px;
+    vertical-align: text-top;
+    font-weight: bold;
+    text-align: left;
+    font-size: 22px;
+    padding-left: 10px;
+}
+#ontario-text {
+    display: none;
+}
+#dark-image {
+    border-style: solid;
+    border-color: white;
+    padding-bottom: 80px;
+    margin: 15px;
+    vertical-align: text-top;
+    font-weight: bold;
+    text-align: left;
+    font-size: 22px;
+    padding-left: 10px;
+}
+#dark-text {
+    display: none;
+}
+#contact {
+    padding-top: 30px;
+}
+.form-control::placeholder {
+    color: white;
+    opacity: 1;
+}
+.form-control {
+    color: white;
+}
+.md-form label{
+    color: white;
+}
+#footer {
+    padding-top:90px;
+}
+
+#contact {
+    background-image: url(../images/backgrounds/c_image.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 70%;
+}
