@@ -1,8 +1,15 @@
 *{
 font-family: 'Anton', sans-serif;
 }
+html,
+body,
+header,
 #intro {
-    background: url("../images/logo.png") no-repeat center center;
+    height: 100%;
+}
+
+#intro {
+    background: url(/images/h_img.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
