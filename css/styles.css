@@ -1,19 +1,28 @@
 *{
 font-family: 'Anton', sans-serif;
 }
-
-#intro {
-    height: 800px;
+body{
+    overflow: auto;
+    margin-left: 0px;
+    margin-right: 0px;
 }
-
 #intro {
+    height: 700px;
     background: url(/images/h_img.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
+    text-align: center;
+    padding-top: 200px;
 }
+.container-fluid{
+    text-align: center;
+}
+.mouseclick{
+    padding-top: 140px;
+}
+
 #logo {
-    margin-top: 100px;
     float:center;
 }
 #welcome {
@@ -171,16 +180,28 @@ h2 {
     padding-top:90px;
 }
 
-#contactForm {
+#contact-Form{
     background-image: url(/images/c_image.jpg)no-repeat center center;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 350px;
+    height:70%;
+}
+#design-text {
+    display: none;
+}
+#dev-text {
+    display: none;
+}
+#product-text {
+    display: none;
+}
+.view{
+    background-image: url(/images/c_image.jpg)no-repeat center center;
 }
 footer>:hover{
     color:gold;
 }
 .card-deck>:hover{
-    background-color:gold;
+    background-color:grey;
 }
