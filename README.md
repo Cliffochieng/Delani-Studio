@@ -1,19 +1,10 @@
 # {Delani Studio}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+#### {A website for the Delani Studio}, {}
+#### By **{}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage. Give as
-much detail as needed to explain what the application does, and any other information you want
-users or other developers to have. }
+{This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios.}
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborat
-ors to run your app. Do I need to run a server? Do I need to install any dependencies? How sho
-uld I set up my databases? Is there other code this app depends on?}
+{}
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Ou
 tline any issues that would impact use of your application. Share any workarounds that are in
