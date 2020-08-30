@@ -1,16 +1,17 @@
 *{
+    font-family: 'Bungee', cursive;
     font-family: 'Modak', cursive;
-    font-size: large;
+    font-family: 'Rubik Mono One', sans-serif;
+    font-family: 'Sigmar One', cursive; 
 }
 .landingpage{
-  background-image: url(/images/h_img.jpg);
+  background-image: url(../images/h_img.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
   text-align: center;
   padding-top:160px; 
-  font-family: 'Gabriela', serif;
   height: 700px;
 
 }
@@ -35,24 +36,19 @@
   text-align: center;
   padding-bottom: 30px;
   padding-top:40px;
-  font-family: 'Copse', serif;
 }
 #about{
   font-family: 'Gabriela', serif;
 }
 .services{
   text-align: center;
-  background-image: url(/images/s_image.jpg);
+  background-image: url(../images/s_image.jpg);
   color: white;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   font-family: 'Copse', serif;
   font-size: 18px;
-}
-.services h2{
-  font-family: 'Gabriela', serif;
-  
 }
 #servicesoverlay{
   background-color: rgba(0,0,0,0.4);
@@ -63,7 +59,6 @@
   font-family: 'Quattrocento', serif;
   text-align: center;
   padding-top: 40px;
-  font-family: 'Gabriela', serif;
 }
 .what-we-do .headings{
   padding-bottom: 38px;
@@ -85,7 +80,7 @@
   font-family: 'Gabriela', serif;
 }
 .contact{
-  background-image: url(/images/c_image.jpg);
+  background-image: url(../images/c_image.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -99,7 +94,6 @@
   margin-top: 30px;
   padding-top: 40px;
   padding-bottom: 20px;
-  font-family: 'Gabriela', serif;
 }
 input[type=text],input[type=email],#comment{
   background: transparent;
@@ -131,7 +125,6 @@ button{
 footer{
   text-align: center;
   padding-top: 30px;
-  font-family: 'Delius Swash Caps', cursive;
 }
 footer p{
   margin-top: 10px;
@@ -158,7 +151,6 @@ footer p{
   text-align: center;
   font-size: 30px;
   padding-top: 50%;
-  font-family: 'Delius Swash Caps', cursive;
 }
 @media only screen and (max-width: 755px){
   #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
@@ -202,6 +194,8 @@ footer p{
   button{
     padding-bottom: 30px;
     margin-bottom: 20px;
+    float:center;
+    text-align: center;
   }
   #MERGE0{
     width: 84%;
