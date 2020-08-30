@@ -8,12 +8,12 @@
 ## Known Bugs
 {The page is not responsive to al devices}
 ## Technologies Used
-Html5
-Css3
-Bootstrap
-jQuery
+{Html5,
+Css3,
+Bootstrap and
+jQuery}
 ## Support and contact details
 {If you have any questions or contributions please email me at[cliffordochieng844@gmail.com]}
 ### License
 *{}*
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {2020} **{List of contributors or company}**
