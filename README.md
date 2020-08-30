@@ -16,4 +16,4 @@ jQuery}
 {If you have any questions or contributions please email me at[cliffordochieng844@gmail.com]}
 ### License
 *{}*
-Copyright (c) {2020} **{List of contributors or company}**
+Copyright (c) {2020} **{Clifford Ochieng}**
