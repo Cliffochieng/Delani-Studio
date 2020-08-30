@@ -15,5 +15,5 @@ jQuery}
 ## Support and contact details
 {If you have any questions or contributions please email me at[cliffordochieng844@gmail.com]}
 ### License
-*{}*
-Copyright (c) {2020} **{Clifford Ochieng}**
+*{MIT}*
+ (c) {2020} **{Clifford Ochieng}**
