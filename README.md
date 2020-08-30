@@ -4,7 +4,7 @@
 ## Description
 {This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios.}
 ## Setup/Installation Requirements
-{}
+{A web browser on a computer}
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Ou
 tline any issues that would impact use of your application. Share any workarounds that are in
